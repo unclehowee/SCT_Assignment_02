@@ -8,8 +8,6 @@ on: # yamllint disable-line rule:truthy
     branches:
       - main
 
-permissions: {}
-
 jobs:
   build:
     name: Lint
